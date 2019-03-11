@@ -165,7 +165,6 @@ table {
 .site-header {
   min-height: 450px;
   background-color: #00B2EE;
-  background-image: url("/img/hero.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed; }
@@ -558,6 +557,7 @@ table {
 /* Hero Image
 * ============================================== */
 .site-header {
+  background-image: url("/blizzard-2019-wowtour/img/hero.jpg");
   background-position: center bottom; }
 
 .tint {
